@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m Roman Andryeyev
 
 
-#Aspiring developer learning Godot and front-end development.
+# Aspiring developer learning Godot and front-end development.
 
 🎮 Interested in game development and web technologies.
 
